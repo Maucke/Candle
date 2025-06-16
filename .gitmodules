@@ -1,0 +1,6 @@
+[submodule "candlelight_stm32f4_fw"]
+	path = candlelight_stm32f4_fw
+	url = git@github.com:Maucke/candlelight_stm32f4_fw.git
+[submodule "Candle.NET"]
+	path = Candle.NET
+	url = git@github.com:Maucke/Candle.NET.git
